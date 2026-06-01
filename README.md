@@ -8,11 +8,13 @@ sintetizar informação dispersa em documentos longos, sem inventar dados fora d
 
 ## Demo
 
-<!-- TODO: substitua pelo seu screenshot/GIF da aplicação rodando -->
-<!-- Sugestão: grave um GIF curto subindo um PDF e fazendo uma pergunta. -->
+Resposta fundamentada com citações por documento e página:
+
 ![Demo da aplicação](docs/demo.png)
 
-> _Substitua `docs/demo.png` por um screenshot ou GIF real da aplicação._
+| Tela inicial | Resposta com citações (Vale) | Filtro por documento |
+| :---: | :---: | :---: |
+| ![Tela inicial](docs/01-tela-inicial.png) | ![Resposta Vale](docs/05-resposta-vale.png) | ![Filtro de documentos](docs/06-filtro-documentos.png) |
 
 ## Arquitetura
 

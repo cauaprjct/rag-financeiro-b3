@@ -1,6 +1,13 @@
 # Mídia da documentação
 
-Coloque aqui o screenshot/GIF da aplicação com o nome **`demo.png`**.
-Ele é referenciado no topo do `README.md`.
+Screenshots da aplicação usados no `README.md` principal:
 
-Dica: grave um GIF curto (10-15s) subindo um PDF e fazendo uma pergunta.
+- `demo.png` — imagem de destaque (resposta com citações)
+- `01-tela-inicial.png` — tela inicial
+- `02-pdfs-selecionados.png` — PDFs selecionados antes de indexar
+- `03-indexado.png` — documentos indexados
+- `04-resposta-petrobras.png` — resposta sobre a Petrobras
+- `05-resposta-vale.png` — resposta sobre a Vale
+- `06-filtro-documentos.png` — filtro por documento
+
+Para regenerar as capturas, use os scripts em `scripts_demo/`.
