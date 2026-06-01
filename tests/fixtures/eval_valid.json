@@ -1,0 +1,11 @@
+[
+  {
+    "question": "Qual foi a receita líquida no trimestre?",
+    "reference_answer": "A receita líquida foi de R$ 1 bilhão.",
+    "expected_context": "Receita líquida trimestral"
+  },
+  {
+    "question": "Qual o lucro operacional?",
+    "reference_answer": "O lucro operacional foi de R$ 200 milhões."
+  }
+]

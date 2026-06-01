@@ -1,0 +1,10 @@
+.env
+.streamlit/secrets.toml
+data/chroma/
+__pycache__/
+.venv/
+*.pyc
+.pytest_cache/
+.hypothesis/
+.kiro/
+.playwright-mcp/

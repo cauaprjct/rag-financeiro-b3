@@ -1,0 +1,8 @@
+[tool.black]
+line-length = 100
+target-version = ["py312"]
+
+[tool.pytest.ini_options]
+markers = ["slow: marks tests that require real models or persistent storage"]
+addopts = "-v --tb=short"
+testpaths = ["tests"]

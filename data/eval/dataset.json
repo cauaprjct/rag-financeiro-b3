@@ -1,0 +1,16 @@
+[
+  {
+    "question": "Qual foi a receita líquida da companhia no período?",
+    "reference_answer": "A receita líquida foi de R$ 1,2 bilhão no trimestre.",
+    "expected_context": "Demonstração de resultados - receita líquida"
+  },
+  {
+    "question": "Qual foi o lucro líquido reportado?",
+    "reference_answer": "O lucro líquido foi de R$ 300 milhões.",
+    "expected_context": "Resultado líquido do período"
+  },
+  {
+    "question": "Houve distribuição de dividendos no período?",
+    "reference_answer": "Sim, foram distribuídos R$ 0,50 por ação a título de dividendos."
+  }
+]
